@@ -1,4 +1,4 @@
-<h1 align="center">!Hey 👋¡ Soy Jaider Bernal</h1>
+<h1 align="center">¡Hey 👋! Soy Jaider Bernal</h1>
 <h3 align="center">Soy Desarrollador JavaScript Full Stack con 2 años experiencia.</h3>
 
 - 📫 How to reach me **jaider.bernal90@gmail.com**
